@@ -1,5 +1,6 @@
 # Credit-Card-Fraud-Detection-Using-ML-Project
-Credit Card Fraud Detection is a machine learning project that identifies fraudulent credit card transactions using transaction data. The project includes data preprocessing, model training, and performance evaluation using algorithms like Logistic Regression, Decision Tree, Random Forest, and XGBoost. 
+Credit Card Fraud Detection is a machine learning project that identifies fraudulent credit card transactions using transaction data. The project includes data preprocessing, model training, and performance evaluation using algorithms like Logistic Regression, Decision Tree, Random Forest, and XGBoost.
+@codsoft for internship
 
 
 # Credit Card Fraud Detection using Machine Learning
@@ -146,6 +147,6 @@ By comparing multiple classification algorithms, the system can predict fraud ac
 
 ## 👨‍💻 Author
 
-**Your Name**
+Sourav Biswal
 
-GitHub: **Your GitHub Profile**
+GitHub: https://github.com/Sourav-Biswal0
